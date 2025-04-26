@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey , I'm Mohamed 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Hi, I'm Mohamed ! 👋  <br>I'm passionate about cybersecurity 🔒, networking 🌐, data analysis 📊, and IT 💻.  <br>I build projects to enhance digital security 🛡️, optimize networks 📶, and extract insights from data 🔍.  <br>Always striving to learn 📚, innovate 🚀, and contribute to the tech community.</h4>
+<h4 align="left">I'm passionate about cybersecurity 🔒, networking 🌐, data analysis 📊, and IT 💻.  <br>I build projects to enhance digital security 🛡️, optimize networks 📶, and extract insights from data 🔍.  <br>Always striving to learn 📚, innovate 🚀, and contribute to the tech community.</h4>
 
 ###
 
